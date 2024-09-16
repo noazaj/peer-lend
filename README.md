@@ -1,1 +1,1 @@
-# peer-lend
+# PeerLend
